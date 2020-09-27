@@ -1,0 +1,3 @@
+entity-packages: reproducer.model
+transactional-packages: reproducer
+querybean-packages: reproducer
